@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Editor version="1.0">
+   <File absPath="/MATLAB Drive/thesis/finite difference" lastWrittenTime="1650379676580" name="laplacian.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="/MATLAB Drive/thesis/finite difference" lastWrittenTime="1650449128994" name="fd_in_parts.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="/MATLAB Drive" lastWrittenTime="1650726846217" name="test.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="/MATLAB Drive/thesis/finite difference" lastWrittenTime="1650731579149" name="lap.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="/MATLAB Drive/thesis/finite difference" lastWrittenTime="1650813965898" name="fdsymmetric.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="/MATLAB Drive/thesis/finite difference" lastWrittenTime="1650814681837" name="fd.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="/MATLAB Drive/thesis/finite difference" lastWrittenTime="1650815019306" name="fd_diffusion.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="/MATLAB Drive/thesis/imex" lastWrittenTime="1652253497598" name="imex2.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="/MATLAB Drive/thesis/imex" lastWrittenTime="1652942715043" name="CH2D1.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="/MATLAB Drive" lastWrittenTime="1652942988651" name="CH2D1.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="/MATLAB Drive/graphs" lastWrittenTime="1654077192917" name="multiple_alpha.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="/MATLAB Drive/graphs" lastWrittenTime="1654077407399" name="G.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="/MATLAB Drive/thesis/imex" lastWrittenTime="1655576476762" name="imex.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="/MATLAB Drive/final/FD" lastWrittenTime="1655640178071" name="fd2d.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="/MATLAB Drive/thesis/finite difference" lastWrittenTime="1655641301736" name="fd2d.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="/MATLAB Drive/final/FD" lastWrittenTime="1655744455221" name="fdnew.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="/MATLAB Drive/thesis/finite difference" lastWrittenTime="1655745496574" name="sim_func.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="/MATLAB Drive/final/FD" lastWrittenTime="1655747299724" name="matgen.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="/MATLAB Drive/final/spectral" lastWrittenTime="1655755345749" name="imex.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="/MATLAB Drive/final/FD" lastWrittenTime="1655758224022" name="sim_func.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="/MATLAB Drive" lastWrittenTime="1655810760576" name="kx.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="/MATLAB Drive/final/FD_old" lastWrittenTime="1655831264075" name="fdnew.m">
+      <CodeFolds version="1.0"/>
+   </File>
+</Editor>
